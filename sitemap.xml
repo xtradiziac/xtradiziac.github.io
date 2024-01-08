@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://www.xtradiziac.com/index.html</loc>
+    <lastmod>2019-07-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://www.xtradiziac.com/phone/index.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://www.xtradiziac.com/tablet/index.html"/>
+    <image:image>
+      <image:loc>http://www.xtradiziac.com/images/xtradiziac2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.xtradiziac.com/images/xtradiziac22.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.xtradiziac.com/images/xtradiziac23.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.xtradiziac.com/images/xtradiziac-02.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://www.xtradiziac.com/thetease.html</loc>
+    <lastmod>2019-07-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://www.xtradiziac.com/phone/thetease.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://www.xtradiziac.com/tablet/thetease.html"/>
+    <image:image>
+      <image:loc>http://www.xtradiziac.com/images/xtradiziac-02.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.xtradiziac.com/images/xtradiziac-theparty-011880x3073.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.xtradiziac.com/images/xtradiziac-theparty-011136x1856.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.xtradiziac.com/images/xtradiziac-theparty-01940x1536.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://www.xtradiziac.com/tablet/thepink-v8.html</loc>
+    <lastmod>2019-07-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://www.xtradiziac.com/phone/thepink-v8.html"/>
+  </url>
+  <url>
+    <loc>http://www.xtradiziac.com/theparty.html</loc>
+    <lastmod>2019-07-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://www.xtradiziac.com/phone/theparty.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://www.xtradiziac.com/tablet/theparty.html"/>
+    <image:image>
+      <image:loc>http://www.xtradiziac.com/images/xtradiziac-02.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.xtradiziac.com/images/xtradiziac-theparty-021880x3073.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.xtradiziac.com/images/xtradiziac-theparty-021136x1856.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.xtradiziac.com/images/xtradiziac-theparty-02940x1536.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.xtradiziac.com/images/xtradiziac-theparty-02752x1229.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://www.xtradiziac.com/pink-v8.html</loc>
+    <lastmod>2019-07-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://www.xtradiziac.com/images/xtradiziac-02.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://www.xtradiziac.com/theoffice.html</loc>
+    <lastmod>2019-07-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://www.xtradiziac.com/phone/theoffice.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://www.xtradiziac.com/tablet/theoffice.html"/>
+    <image:image>
+      <image:loc>http://www.xtradiziac.com/images/xtradiziac-02.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://www.xtradiziac.com/assets/xtradiziac-theparty.pdf</loc>
+    <lastmod>2018-09-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.xtradiziac.com/assets/xtradiziac-thetease.pdf</loc>
+    <lastmod>2018-09-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>

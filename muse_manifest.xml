@@ -1,0 +1,232 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.xtradiziac.com" resolutions="1x" timestamp="1562306260438">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_b-master.css" crc="354039339" ref="thetease:theparty:theoffice:pink-v8"/>
+    <file name="nomq_preview_master_b-master.css" crc="3791063567" ref="thetease:theparty:theoffice:pink-v8"/>
+    <file name="master_a-master.css" crc="4185851237" ref="index"/>
+    <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="index"/>
+    <file name="index.css" crc="217988514" ref="index"/>
+    <file name="nomq_index.css" crc="3824530138" ref="index"/>
+    <file name="iefonts_index.css" crc="4115353929" ref="index"/>
+    <file name="thetease.css" crc="152405759" ref="thetease"/>
+    <file name="nomq_thetease.css" crc="3883459922" ref="thetease"/>
+    <file name="iefonts_thetease.css" crc="3824530138" ref="thetease"/>
+    <file name="theparty.css" crc="476290996" ref="theparty"/>
+    <file name="nomq_theparty.css" crc="489608031" ref="theparty"/>
+    <file name="iefonts_theparty.css" crc="3824530138" ref="theparty"/>
+    <file name="theoffice.css" crc="4231383300" ref="theoffice"/>
+    <file name="nomq_theoffice.css" crc="4048756470" ref="theoffice"/>
+    <file name="iefonts_theoffice.css" crc="3824530138" ref="theoffice"/>
+    <file name="pink-v8.css" crc="3856029777" ref="pink-v8"/>
+    <file name="nomq_pink-v8.css" crc="492714595" ref="pink-v8"/>
+    <file name="iefonts_pink-v8.css" crc="3824530138" ref="pink-v8"/>
+  </folder>
+  <folder name="assets">
+    <file name="xtradiziac-thetease.pdf" crc="4055011640" seo="true" mt="1537962221000"/>
+    <file name="xtradiziac-theparty.pdf" crc="4250375137" seo="true" mt="1537962162000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>thetease:phone>theparty:phone>thepink-v8:phone>theoffice:tablet>index:tablet>thetease:tablet>theparty:tablet>thepink-v8:tablet>theoffice:index:thetease:theparty:pink-v8:theoffice"/>
+    <file name="museutils.js" crc="340535759" ref="phone>index:phone>thetease:phone>theparty:phone>thepink-v8:phone>theoffice:tablet>index:tablet>thetease:tablet>theparty:tablet>thepink-v8:tablet>theoffice:index:thetease:theparty:pink-v8:theoffice"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>thetease:phone>theparty:phone>thepink-v8:phone>theoffice:tablet>index:tablet>thetease:tablet>theparty:tablet>thepink-v8:tablet>theoffice:index:thetease:theparty:pink-v8:theoffice"/>
+    <file name="museconfig.js" crc="4286661555" ref="phone>index:phone>thetease:phone>theparty:phone>thepink-v8:phone>theoffice:tablet>index:tablet>thetease:tablet>theparty:tablet>thepink-v8:tablet>theoffice:index:thetease:theparty:pink-v8:theoffice"/>
+    <file name="jquery.watch.js" crc="51536988" ref="phone>index:phone>thetease:phone>theparty:phone>thepink-v8:phone>theoffice:tablet>index:tablet>thetease:tablet>theparty:tablet>thepink-v8:tablet>theoffice:index:thetease:theparty:pink-v8:theoffice"/>
+    <file name="webpro.js" crc="4059564322" ref="phone>index:phone>thetease:phone>theparty:phone>thepink-v8:phone>theoffice:tablet>index:index"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="phone>index:phone>thetease:phone>theparty:phone>thepink-v8:phone>theoffice:tablet>index:index"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="phone>index:phone>thetease:phone>theparty:phone>thepink-v8:phone>theoffice:tablet>index:index"/>
+    <file name="touchswipe.js" crc="4075097462" ref="phone>index:phone>thetease:phone>theparty:phone>thepink-v8:phone>theoffice:tablet>index:index"/>
+    <file name="require.js" crc="7928878" ref="phone>index:phone>thetease:phone>theparty:phone>thepink-v8:phone>theoffice:tablet>index:tablet>thetease:tablet>theparty:tablet>thepink-v8:tablet>theoffice:index:thetease:theparty:pink-v8:theoffice"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="phone>thetease:phone>thepink-v8:phone>theoffice:tablet>thetease:thetease:theparty:pink-v8"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="thetease:theparty:pink-v8:theoffice"/>
+  </folder>
+  <folder name="images">
+    <file name="xtradiziac2.jpg" crc="3973264858" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="phone>index:phone>thetease:phone>theparty:tablet>index:index:thetease:theparty:pink-v8:theoffice"/>
+    <file name="xtradiziac22.jpg" crc="3973264858" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="xtradiziac23.jpg" crc="3973264858" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="phone>index:phone>thetease:phone>theparty:tablet>index:index"/>
+    <file name="xtradiziac-02.png" crc="3804753496" seo="true" ref="phone>index:phone>thetease:phone>theparty:phone>thepink-v8:phone>theoffice:tablet>index:tablet>thetease:tablet>theparty:tablet>thepink-v8:tablet>theoffice:index:thetease:theparty:pink-v8:theoffice">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="pink-v8" alt=""/>
+      <caption webpage="pink-v8" alt=""/>
+      <caption webpage="thetease" alt=""/>
+      <caption webpage="thetease" alt=""/>
+      <caption webpage="thetease" alt=""/>
+      <caption webpage="thetease" alt=""/>
+      <caption webpage="thetease" alt=""/>
+      <caption webpage="thepink-v8" alt=""/>
+      <caption webpage="thepink-v8" alt=""/>
+      <caption webpage="theoffice" alt=""/>
+      <caption webpage="theoffice" alt=""/>
+      <caption webpage="theoffice" alt=""/>
+      <caption webpage="theoffice" alt=""/>
+      <caption webpage="theparty" alt=""/>
+      <caption webpage="theparty" alt=""/>
+      <caption webpage="theparty" alt=""/>
+      <caption webpage="theparty" alt=""/>
+      <caption webpage="theparty" alt=""/>
+      <caption webpage="theparty" alt=""/>
+    </file>
+    <file name="xtradiziac-theparty-hdd.jpg" crc="430325484" ref="phone>thetease:tablet>thetease:thetease:theparty:pink-v8">
+      <caption webpage="theparty" alt=""/>
+      <caption webpage="theparty" alt=""/>
+      <caption webpage="pink-v8" alt=""/>
+      <caption webpage="thetease" alt=""/>
+      <caption webpage="thetease" alt=""/>
+      <caption webpage="thetease" alt=""/>
+      <caption webpage="thetease" alt=""/>
+      <caption webpage="thetease" alt=""/>
+    </file>
+    <file name="bar-u19926.png" crc="380250606" ref="phone>thetease"/>
+    <file name="miami-intimate-couple-photography-036-2-crop-u20054.jpg" crc="448023849" seo="true" ref="phone>thetease">
+      <caption webpage="thetease" alt=""/>
+    </file>
+    <file name="ad01.png" crc="3846095496" seo="true" ref="phone>thetease:phone>theparty">
+      <caption webpage="theparty" alt=""/>
+      <caption webpage="thetease" alt=""/>
+    </file>
+    <file name="bar-u20170.png" crc="380250606" ref="phone>thetease"/>
+    <file name="ad02.png" crc="3964911037" seo="true" ref="phone>thetease:phone>theparty">
+      <caption webpage="theparty" alt=""/>
+      <caption webpage="thetease" alt=""/>
+    </file>
+    <file name="ad03.jpg" crc="4188957334" seo="true" ref="phone>thetease:phone>theparty">
+      <caption webpage="theparty" alt=""/>
+      <caption webpage="thetease" alt=""/>
+    </file>
+    <file name="mid01.jpg" crc="460398443" seo="true" ref="phone>thetease">
+      <caption webpage="thetease" alt=""/>
+    </file>
+    <file name="sidetitles.png" crc="254121050" seo="true" ref="phone>thetease:phone>theparty">
+      <caption webpage="theparty" alt=""/>
+      <caption webpage="thetease" alt=""/>
+    </file>
+    <file name="ad04.png" crc="101855954" seo="true" ref="phone>thetease:phone>theparty">
+      <caption webpage="theparty" alt=""/>
+      <caption webpage="thetease" alt=""/>
+    </file>
+    <file name="xtradiziac-theparty-ftr.jpg" crc="494507332" ref="phone>thetease:tablet>thetease:thetease:theparty:pink-v8">
+      <caption webpage="theparty" alt=""/>
+      <caption webpage="theparty" alt=""/>
+      <caption webpage="pink-v8" alt=""/>
+      <caption webpage="thetease" alt=""/>
+      <caption webpage="thetease" alt=""/>
+      <caption webpage="thetease" alt=""/>
+      <caption webpage="thetease" alt=""/>
+      <caption webpage="thetease" alt=""/>
+    </file>
+    <file name="bar-u20242.png" crc="380250606" ref="phone>theparty"/>
+    <file name="img_1538-crop-u20256.jpg" crc="3953385633" seo="true" ref="phone>theparty">
+      <caption webpage="theparty" alt=""/>
+    </file>
+    <file name="bar-u20244.png" crc="380250606" ref="phone>theparty"/>
+    <file name="imgarticle02.png" crc="4176640987" seo="true" ref="phone>theparty">
+      <caption webpage="theparty" alt=""/>
+    </file>
+    <file name="xtradiziac1.jpg" crc="354249523" ref="phone>thepink-v8:phone>theoffice:tablet>thepink-v8:tablet>theoffice:pink-v8:theoffice">
+      <caption webpage="pink-v8" alt=""/>
+      <caption webpage="pink-v8" alt=""/>
+      <caption webpage="theoffice" alt=""/>
+      <caption webpage="theoffice" alt=""/>
+      <caption webpage="theoffice" alt=""/>
+      <caption webpage="thepink-v8" alt=""/>
+      <caption webpage="thepink-v8" alt=""/>
+    </file>
+    <file name="xtradiziac-theparty-01768x1253.jpg" crc="287924340" seo="true" ref="tablet>thetease">
+      <caption webpage="thetease" alt=""/>
+    </file>
+    <file name="xtradiziac-theparty-02768x1255.jpg" crc="3926931499" seo="true" ref="tablet>theparty">
+      <caption webpage="theparty" alt=""/>
+    </file>
+    <file name="xtradiziac-theparty-011880x3073.jpg" crc="299301265" seo="true" ref="thetease">
+      <caption webpage="thetease" alt=""/>
+    </file>
+    <file name="xtradiziac-theparty-011136x1856.jpg" crc="64046870" seo="true" ref="thetease">
+      <caption webpage="thetease" alt=""/>
+    </file>
+    <file name="xtradiziac-theparty-01940x1536.jpg" crc="510952482" seo="true" ref="thetease">
+      <caption webpage="thetease" alt=""/>
+    </file>
+    <file name="xtradiziac-theparty-021880x3073.jpg" crc="146702677" seo="true" ref="theparty">
+      <caption webpage="theparty" alt=""/>
+    </file>
+    <file name="xtradiziac-theparty-021136x1856.jpg" crc="3911280214" seo="true" ref="theparty">
+      <caption webpage="theparty" alt=""/>
+    </file>
+    <file name="xtradiziac-theparty-02940x1536.jpg" crc="3783384565" seo="true" ref="theparty">
+      <caption webpage="theparty" alt=""/>
+    </file>
+    <file name="xtradiziac-theparty-02752x1229.jpg" crc="3784370341" seo="true" ref="theparty">
+      <caption webpage="theparty" alt=""/>
+    </file>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="master_a-master.css" crc="4203856671" ref="tablet>index"/>
+      <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="tablet>index"/>
+      <file name="master_b-master.css" crc="3896547631" ref="tablet>thetease:tablet>theoffice:tablet>theparty:tablet>thepink-v8"/>
+      <file name="nomq_preview_master_b-master.css" crc="3824530138" ref="tablet>thetease:tablet>theoffice:tablet>theparty:tablet>thepink-v8"/>
+      <file name="index.css" crc="373661896" ref="tablet>index"/>
+      <file name="nomq_index.css" crc="3824530138" ref="tablet>index"/>
+      <file name="iefonts_index.css" crc="191132544" ref="tablet>index"/>
+      <file name="thetease.css" crc="514990412" ref="tablet>thetease"/>
+      <file name="iefonts_thetease.css" crc="3844779558" ref="tablet>thetease"/>
+      <file name="theoffice.css" crc="389239525" ref="tablet>theoffice"/>
+      <file name="nomq_theoffice.css" crc="3824530138" ref="tablet>theoffice"/>
+      <file name="iefonts_theoffice.css" crc="4036092978" ref="tablet>theoffice"/>
+      <file name="theparty.css" crc="84735560" ref="tablet>theparty"/>
+      <file name="iefonts_theparty.css" crc="3844779558" ref="tablet>theparty"/>
+      <file name="thepink-v8.css" crc="3869869880" ref="tablet>thepink-v8"/>
+      <file name="iefonts_thepink-v8.css" crc="296132654" ref="tablet>thepink-v8"/>
+    </folder>
+    <file name="index.html" crc="3965427229" seo="true" mt="1562306101032" redirect="true"/>
+    <file name="thetease.html" crc="129246300" seo="true" mt="1562306118429" redirect="true"/>
+    <file name="theparty.html" crc="112880960" seo="true" mt="1562306118429" redirect="true"/>
+    <file name="thepink-v8.html" crc="3885766445" seo="true" mt="1562306118429" redirect="true"/>
+    <file name="theoffice.html" crc="3785637887" seo="true" mt="1562306118429" redirect="true"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_b-master.css" crc="4037754890" ref="phone>theoffice:phone>thetease:phone>theparty:phone>thepink-v8"/>
+      <file name="nomq_preview_master_b-master.css" crc="3824530138" ref="phone>theoffice:phone>thetease:phone>theparty:phone>thepink-v8"/>
+      <file name="master_a-master.css" crc="278834156" ref="phone>index"/>
+      <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="phone>index"/>
+      <file name="index.css" crc="3768706421" ref="phone>index"/>
+      <file name="nomq_index.css" crc="3824530138" ref="phone>index"/>
+      <file name="iefonts_index.css" crc="3877467850" ref="phone>index"/>
+      <file name="theoffice.css" crc="1082812" ref="phone>theoffice"/>
+      <file name="nomq_theoffice.css" crc="3824530138" ref="phone>theoffice"/>
+      <file name="iefonts_theoffice.css" crc="3868342971" ref="phone>theoffice"/>
+      <file name="thetease.css" crc="4037136662" ref="phone>thetease"/>
+      <file name="iefonts_thetease.css" crc="272023617" ref="phone>thetease"/>
+      <file name="theparty.css" crc="495175904" ref="phone>theparty"/>
+      <file name="iefonts_theparty.css" crc="176963045" ref="phone>theparty"/>
+      <file name="thepink-v8.css" crc="4193260063" ref="phone>thepink-v8"/>
+      <file name="iefonts_thepink-v8.css" crc="98113693" ref="phone>thepink-v8"/>
+    </folder>
+    <file name="index.html" crc="276751437" seo="true" mt="1562306161134" redirect="true"/>
+    <file name="thetease.html" crc="3980515019" seo="true" mt="1562306138176" redirect="true"/>
+    <file name="theparty.html" crc="3907784748" seo="true" mt="1562306138176" redirect="true"/>
+    <file name="thepink-v8.html" crc="149762512" seo="true" mt="1562306138176" redirect="true"/>
+    <file name="theoffice.html" crc="388561292" seo="true" mt="1562306138176" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="3972902856" seo="true" mt="1562306065907" redirect="true"/>
+  <file name="thetease.html" crc="426135609" seo="true" mt="1562306024743" redirect="true"/>
+  <file name="theparty.html" crc="3996689729" seo="true" mt="1562306024743" redirect="true"/>
+  <file name="pink-v8.html" crc="4070751135" seo="true" mt="1562306024743" redirect="true"/>
+  <file name="theoffice.html" crc="317448400" seo="true" mt="1562306024743" redirect="true"/>
+</manifest>
